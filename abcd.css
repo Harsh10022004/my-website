@@ -1,0 +1,82 @@
+#x {
+  width: 310px;
+  background-color: black;
+  height: 3000px;
+  padding-top: 25px;
+}
+#first2 {
+  width: 725px;
+  background-image: url("profile.jpg");
+  background-size: cover;
+  height: 750px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#first {
+  display: flex;
+}
+#firsta {
+  width: 150px;
+  height: 185px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: brown;
+  border-radius: 50%;
+  background-image: url("profile.jpg");
+  background-size: cover;
+}
+#first1 {
+  width: 310px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+}
+#harry {
+  color: white;
+  text-align: center;
+}
+#contain1 {
+  display: flex;
+}
+#image {
+  width: 237px;
+  height: 340px;
+  background-image: url("profile.jpg");
+  background-size: cover;
+}
+#ui {
+  color: darkblue;
+}
+#text {
+  width: 490px;
+}
+#free {
+  color: white;
+}
+#detail {
+  width: 490px;
+  height: 120px;
+  display: flex;
+}
+#numbers {
+  width: 727px;
+  height: 163px;
+  display: flex;
+  justify-content: space-between;
+}
+.q {
+  color: antiquewhite;
+  justify-content: center;
+}
+.ijkl {
+  width: 244px;
+  height: 120px;
+}
+.poll {
+  width: 365px;
+  height: 300px;
+}
+#unit {
+  display: flex;
+}
